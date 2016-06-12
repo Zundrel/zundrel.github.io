@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey guys, I'm Zundrel and I like to program Minecraft mods and also want to look into game development.
+Game development has always been something I've wanted to do since I was a little kid, and I'm still wanting to do it.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Currently atm all my endeavors are through using the Unity engine, but I may expand into the Unreal Engine eventually.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[redstonedudeiscool@gmail.com](mailto:redstonedudeiscool@gmail)
