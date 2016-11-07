@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Java Programming #0: What Is An Object-Oriented Programming Language
+title: Java Programming 0: What Is An Object-Oriented Programming Language
 ---
 
 Hello! If you're reading this you're hopefully interested in learning Java.
