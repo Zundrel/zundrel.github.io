@@ -6,4 +6,4 @@ permalink: /projectpeak/
 
 Project Peak is the codename for my work-in-progress top-down 2D title. It is still currently in the planning phase.
 
-Stay tuned for updates!
+Stay tuned for updates! (As information becomes available I will provide links on this page)
